@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple Sinatra Application"
-date:   2017-04-10 08:04:37 +0000
+date:   2017-04-10 04:04:37 -0400
 ---
 
 
@@ -41,4 +41,4 @@ These are the seven conventional restful routes.
 
 Finally, we have to build the index, show, new and edit pages for the clients to display. Each of them are written in erb, the embedded Ruby code, which is basically blending Ruby code in html. It is very interesting to learn that the data from a form will be passed to the post action through the `params` hash and also that we can pass the data from a controller to a view using instance variable.
 
-After some time figuring out all the tricky part of the interaction between M, V and C, I finally got [my application](https://github.com/johnsont426/camera-bag-organizer) running! While everything started to work and make sense, while writing this project, I felt that there are many repetitive codes and I have to hard code many things. I know that Sinatra is just a light weight framework, so I can't wait to learn the more sophisticating Rails library.
+After some time figuring out all the tricky part of the interaction between M, V and C, I finally got [my application](https://github.com/johnsont426/camera-bag-organizer) running! While everything started to work and make sense, when I was writing this project, I felt that there are many repetitive codes and I have to hard code many things. I know that Sinatra is just a light weight framework, so I can't wait to learn the more sophisticating Rails library.
