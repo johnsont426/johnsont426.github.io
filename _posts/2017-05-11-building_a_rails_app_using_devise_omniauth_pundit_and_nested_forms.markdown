@@ -7,8 +7,11 @@ date:   2017-05-11 01:18:40 -0400
 
 For the third assessment project at the Flatiron Learn Verified Online Program, I was required to build a Rails (MVC architecture) application. I built a simple online store application using authentication gems like Devise and Omniauth, and also the Pundit gem for authorization. Here is the [link](https://youtu.be/czgv3gm85zk) to my walkthrough video of this app.
 
-## Conceptualization
 
+ 
+**Conceptualization**
+ 
+ 
 One of my friends has been thinking about selling stuff online. Ever since she heard that I've been learning web developing, she has asked me several times to help her build a ecommerce website. No matter she is joking or not, I thought why not? So I decided to create a Rails app that display merchadise and has simple functions that are similar to all the ecommerce sites out there, like a user can sign in and add things they want to buy in the cart, and when the users check out, the admins can view all the orders for them to process.
 
 
