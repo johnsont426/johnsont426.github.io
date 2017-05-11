@@ -1,10 +1,10 @@
 # Site settings
-title: Eat Code Love
+title: Code to Success
 header-img: img/home-bg.png
 email: johnsont426@gmail.com
 copyright_name: johnsont426
 description: > # this means to ignore newlines until "baseurl:"
-  Coding—My New Lifestyle
+  Let the journey begin
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  johnsont426
