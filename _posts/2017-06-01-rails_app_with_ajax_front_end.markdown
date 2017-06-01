@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rails App with Ajax Front End
-date:   2017-06-01 21:57:23 +0000
+date:   2017-06-01 17:57:24 -0400
 ---
 
 
@@ -34,4 +34,6 @@ So the data from the form will first be serialized and then send to the server v
 Then the ajax action will deal with this respond—prepend it on the top of the reviews div. Yay! my app is now more dynamic!
 
 ![](https://media.giphy.com/media/1mtIX6fY83Hji/giphy.gif)
+
+View the rest of my codes [here](https://github.com/johnsont426/online-store)
 
