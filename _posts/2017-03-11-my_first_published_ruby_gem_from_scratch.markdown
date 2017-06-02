@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "My First Published Ruby Gem From Scratch"
+title:  My First Published Ruby Gem From Scratch
 date:   2017-03-10 22:34:51 -0500
 ---
 
 
-It has been three weeks since I started learning at Learn.co, and I am now at the end of the OO Ruby curriculum and just published an CLI data gem, which makes me feel a bit of sense of accomplishment.  Thanks to the wonderful and rigorous curriculums Learn offers, I am able to finish this final project smoothly. The following is the walkthrough of my programming process.
+It has been three weeks since I started learning at [Learn.co online web developer bootcamp](https://www.flatironschool.com/programs/online-community-bootcamp/), and I am now at the end of the OO Ruby curriculum and just published an CLI data gem, which makes me feel a bit of sense of accomplishment.  Thanks to the wonderful and rigorous curriculums Learn offers, I am able to finish this final project smoothly. The following is the walkthrough of my programming process.
 
 **Plan It Out**
 
