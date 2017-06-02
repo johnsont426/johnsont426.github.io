@@ -78,4 +78,4 @@ Overall, building this app was an amazing learning experience. Portfolio project
 
 
 
-Check out the rest of my code [here](https://github.com/johnsont426/online-store).
+**Check out the rest of my code [here](https://github.com/johnsont426/online-store).**
