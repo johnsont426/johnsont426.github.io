@@ -43,4 +43,4 @@ Finally, we have to build the index, show, new and edit pages for the clients to
 
 After some time figuring out all the tricky part of the interaction between M, V and C, I finally got [my application](https://github.com/johnsont426/camera-bag-organizer) running! While everything started to work and make sense, when I was writing this project, I felt that there are many repetitive codes and I have to hard code many things. I know that Sinatra is just a light weight framework, so I can't wait to learn the more sophisticating Rails library.
 
-View the rest of my codes [here](https://github.com/johnsont426/camera-bag-organizer).
+**View the rest of my codes [here](https://github.com/johnsont426/camera-bag-organizer).**
