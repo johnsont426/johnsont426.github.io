@@ -35,5 +35,5 @@ Then the ajax action will deal with this respond—prepend it on the top of the 
 
 ![](https://media.giphy.com/media/1mtIX6fY83Hji/giphy.gif)
 
-View the rest of my codes [here](https://github.com/johnsont426/online-store)
+**View the rest of my codes [here](https://github.com/johnsont426/online-store).**
 
