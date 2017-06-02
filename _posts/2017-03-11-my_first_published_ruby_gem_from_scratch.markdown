@@ -51,4 +51,4 @@ After all the trial and error, and all the refactoring to make sure my classes d
 
 This is it, my first [published gem](https://rubygems.org/gems/movies_around_you)!
 
-View rest of my codes [here](https://github.com/johnsont426/movies-around-you-cli-gem).
+**View rest of my codes [here](https://github.com/johnsont426/movies-around-you-cli-gem).**
