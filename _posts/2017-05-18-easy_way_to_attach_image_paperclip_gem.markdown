@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Easy Way to Attach Image—Paperclip Gem
-date:   2017-05-18 08:51:48 +0000
+date:   2017-05-18 04:51:48 -0400
 ---
 
 
