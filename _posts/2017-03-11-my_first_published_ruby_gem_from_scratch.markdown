@@ -5,7 +5,7 @@ date:   2017-03-10 22:34:51 -0500
 ---
 
 
-It has been three weeks since I started learning at [Learn.co online web developer bootcamp](https://www.flatironschool.com/programs/online-community-bootcamp/), and I am now at the end of the OO Ruby curriculum and just published an CLI data gem, which makes me feel a bit of sense of accomplishment.  Thanks to the wonderful and rigorous curriculums Learn offers, I am able to finish this final project smoothly. The following is the walkthrough of my programming process.
+It has been three weeks since I started learning at [Learn.co online web developer bootcamp](https://www.flatironschool.com/programs/online-community-bootcamp/), and I am now at the end of the OO Ruby curriculum and just published an CLI data gem, which makes me feel a bit of sense of accomplishment.  Thanks to the wonderful and rigorous curriculums Learn offers, I am able to finish this final project smoothly. [Here](https://youtu.be/VdcfJd15u8M) is the walkthrough video of this project and the following is my programming process.
 
 **Plan It Out**
 
@@ -49,4 +49,6 @@ In this project, I started to get used to debug using these tools. Bugs appeared
 
 After all the trial and error, and all the refactoring to make sure my classes do serve their purpose and all my objects collaborate with each other, my program finally started to work! After some tests to make sure it works properly, I published it to RubyGems.org. 
 
-This is it, my first [published gem](https://github.com/johnsont426)!
+This is it, my first [published gem](https://rubygems.org/gems/movies_around_you)!
+
+View rest of my codes [here](https://github.com/johnsont426/movies-around-you-cli-gem).
