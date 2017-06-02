@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Simple Sinatra Application"
+title:  Simple Sinatra Application
 date:   2017-04-10 04:04:37 -0400
 ---
 
 
-I have dived into Sinatra curriculum for about two weeks, and finally it's time for the final project. Sinatra is just another Ruby library that helps us build a web application faster—well, not fast enough, since the point of learning Sinatra is to warm up for the real deal—Rails. But through learning Sinatra, I started getting the hang of the idea of MVC (model-view-controller) framework, and the RESTful architectural style.
+I have dived into Sinatra curriculum for about two weeks, and finally it's time for the final project. Here is the [link](https://youtu.be/KYlVWLj640Q) to the walkthrough video of this project. Sinatra is just another Ruby library that helps us build a web application faster—well, not fast enough, since the point of learning Sinatra is to warm up for the real deal—Rails. But through learning Sinatra, I started getting the hang of the idea of MVC (model-view-controller) framework, and the RESTful architectural style.
 
 In this project, I built a small application that can help me organize my camera bags. I love photography, like every other photographers, I have several cameras and quite a few lenses. I love to take my gears with me when I  go to a trip and take beautiful pictures, but at the same time I don't want my bag to be too cumbersome, so I always want to know how heavy will my camera bag be so I can decide what to bring and what not to.
 
@@ -42,3 +42,5 @@ These are the seven conventional restful routes.
 Finally, we have to build the index, show, new and edit pages for the clients to display. Each of them are written in erb, the embedded Ruby code, which is basically blending Ruby code in html. It is very interesting to learn that the data from a form will be passed to the post action through the `params` hash and also that we can pass the data from a controller to a view using instance variable.
 
 After some time figuring out all the tricky part of the interaction between M, V and C, I finally got [my application](https://github.com/johnsont426/camera-bag-organizer) running! While everything started to work and make sense, when I was writing this project, I felt that there are many repetitive codes and I have to hard code many things. I know that Sinatra is just a light weight framework, so I can't wait to learn the more sophisticating Rails library.
+
+View the rest of my codes [here](https://github.com/johnsont426/camera-bag-organizer).
