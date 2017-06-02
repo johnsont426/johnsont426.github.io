@@ -5,7 +5,7 @@ date:   2017-06-01 17:57:24 -0400
 ---
 
 
-Finally, I have learned enough to intergrate some more matured front end techniques in my HomeDec ecommerce site. I decided to use Ajax on the item's show page to make my site look nicer and enhence user's experience. It seems daunting at first and I had encountered some problems, but it turns out to be another fruitful learning experience. 
+I have continued to work on my [HomeDec Rails app](http://johnsontai.com/2017/05/11/building_a_rails_app_using_devise_omniauth_pundit_and_nested_forms/). Finally, now I have learned enough to intergrate some more matured front end techniques in my HomeDec ecommerce site. I decided to use Ajax on the item's show page to make my site look nicer and enhence user's experience. It seems daunting at first and I had encountered some problems, but it turns out to be another fruitful learning experience. 
 
 **Ajax Get request**
 
