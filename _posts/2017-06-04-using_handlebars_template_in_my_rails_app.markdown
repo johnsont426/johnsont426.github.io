@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Using Handlebars Template In My Rails App
+title:  "Using Handlebars Template In My Rails App"
 date:   2017-06-04 04:32:15 -0400
 ---
 
 
-Now that know how to use [Handlebars](http://handlebarsjs.com) template, I want to use it in my HomeDec app and refactor some of my codes. **(Go to my last three posts to read more about this app!)**
+Now that know how to use [Handlebars](http://handlebarsjs.com) template, I want to use it in my HomeDec app and refactor some of my codes. **(Go to my last three posts to read more about this app! And click [here](https://youtu.be/CJ8D2alZJOk) to watch a quick walkthrough video of this app)**
 
 The part I wanted to change is the process of posting new review. In order to use Handlebars, I need the server to respond the Ajax post request with the json of the newly created review. To do so, simply ask the controller to render json:
 
